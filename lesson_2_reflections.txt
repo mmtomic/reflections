@@ -9,3 +9,7 @@ The staging area is a temporary area where files can be added and, I assume, rem
 3. How can you use the staging area to make sure you have one commit per logical change?
 
 I can use git diff to check the differences between the working directory and the staging area. I can also use git diff --staged to check the differences between staging area and the last commit. I can add and remove files from the staging area to make sure that the changes in one commit are logical. 
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+I can have several versions like a test version containing the newest fixes that are not tested yet, and a production version which has been tested well enough and is delivered to the users. Branches could keep my work more organized and make it possible to have several different versions of an application for different uses. 
