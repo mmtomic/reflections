@@ -17,3 +17,8 @@ I can have several versions like a test version containing the newest fixes that
 5. How do the diagrams help you visualize the branch structure?
 
 The diagrams show me where each branch starts and ends and what commits have been done on the master branch while I was working on my own branch. They help me visualize the situation so that I know where I am, where I can merge and where I can checkout.
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches together is a commit that merges changes in the two last commits in the branches compared to the original files before the branches separated. 
+We represent it in the diagram the way we do because one branch combines with the other into one commit on the branch that is checked out. 
