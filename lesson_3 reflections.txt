@@ -9,3 +9,7 @@ It gives me more freedom to choose which changes I want to include in the work t
 3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forking is cloning but only on GitHub. Cloning can happen locally or from a remote to local machine. It means to copy a repository. Branching can happen on a local machine or on GitHub. Branching is used to copy the existing repository and make it possible to work on it separately from other people. 
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit is that I can review changes on the remote without needing an internet connection. I can also do a merge and continue working locally. 
