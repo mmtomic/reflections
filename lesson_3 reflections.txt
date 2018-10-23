@@ -1,0 +1,3 @@
+1. When would you want to use a remote repository rather than keeping all your work local?
+
+I'd like my work to be accessible on a remote repository when working from two or more machines far away from each other (work and home) and when collaborating with others on the same project. It is also preferable in case I need help, so that someone else, who knows more than me, can give me some input on which changes I could make.  
