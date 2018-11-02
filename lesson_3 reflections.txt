@@ -17,3 +17,7 @@ The benefit is that I can review changes on the remote without needing an intern
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would use another form of version control, like SVN. If I remember how SVN works, it would be harder to work locally without an Internet connection. Perhaps it wouldn't be so hard to learn how to use it, since it's simpler and has less possibilities than Git. 
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When working on the same file(s) as someone else, I'd do it in a separate branch. That way I will have more control when a merge conflict happens. I'd also have bigger changes on a separate branch, so that others can take a look at it before it is merged into master. When working offline I'd also consider having a separate branch, because that way my work will be saved locally separate from the local copy of the remote branch. It is less complicated to work directly on master, but having a separate branch makes sure that merge conflicts are resolved locally on the machine before being pushed on to GitHub. 
