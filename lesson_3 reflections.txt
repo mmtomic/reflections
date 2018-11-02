@@ -14,6 +14,6 @@ Forking is cloning but only on GitHub. Cloning can happen locally or from a remo
 
 The benefit is that I can review changes on the remote without needing an internet connection. I can also do a merge and continue working locally. 
 
-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would use another form of version control, like SVN. If I remember how SVN works, it would be harder to work locally without an Internet connection. Perhaps it wouldn't be so hard to learn how to use it, since it's simpler and has less possibilities than Git. 
